@@ -109,18 +109,20 @@ Make the site responsive for mobile, tablet, and desktop.
 ---
 
 ## 📁 Suggested Folder Structure
+```
 /portfolio-project
-├── index.html
-├── about.html
-├── contact.html
-├── /css
-│ └── style.css
-├── /js
-│ └── script.js
-├── /assets
-│ ├── /images
-│ └── resume.pdf
-└── README.md
+├── index.html          # Homepage
+├── about.html          # About section
+├── contact.html        # Contact form
+├── css/
+│   └── style.css       # Styling file
+├── js/
+│   └── script.js       # JavaScript logic
+├── assets/
+│   ├── images/         # Image folder
+│   └── resume.pdf      # Your downloadable CV
+└── README.md           # Project overview
+
 
 
 ---
