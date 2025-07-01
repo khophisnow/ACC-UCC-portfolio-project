@@ -122,7 +122,7 @@ Make the site responsive for mobile, tablet, and desktop.
 │   ├── images/         # Image folder
 │   └── resume.pdf      # Your downloadable CV
 └── README.md           # Project overview
-
+```
 
 
 ---
