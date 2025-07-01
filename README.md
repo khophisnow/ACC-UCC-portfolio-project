@@ -1,103 +1,134 @@
-‍💻 Newbie Project — Personal Portfolio Website
+# 🧑‍💻 Newbie Project — Personal Portfolio Website
 
-🔧 Tech Stack
-HTML5
-CSS3
-JavaScript (Vanilla)
-Responsive Web Design Principles
+Welcome to the ACC-UCC Front-End Beginners Portfolio Project! This project is part of our weekly learning journey and is designed to help you build a simple, responsive personal portfolio site from scratch.
 
-📦 Features by Week (Progressive Design)
+---
 
-🗓️ Week 1: HTML & Semantic Markup
-Goals:
-Understand basic HTML structure and semantic tags
-Create the foundational structure of a personal portfolio
-Pages to Create:
-Home
-About
-Contact
-Key Concepts:
-```<!DOCTYPE html>, <head>, <body>
-Semantic tags: <header>, <section>, <footer>, etc.
-Forms: <form>, <input>, <textarea>, <button>
-```
-Resources:
-FreeCodeCamp: Basic HTML and HTML5
-Project Task:
- Build the basic HTML structure for all three pages of the portfolio.
+## 🔧 Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- Responsive Web Design Principles
 
-🗓️ Week 2: CSS Fundamentals
-Goals:
-Style the portfolio using CSS
-Understand the box model, layout basics, and text styling
-Key Concepts:
-Selectors and specificity
-Box model (margin, padding, border)
-Typography (fonts, sizes, line height)
-Flexbox for layout
-Resources:
-FreeCodeCamp: Basic CSS
-CSS Crash Course – YouTube
-Project Task:
- Apply styles to the HTML layout. Customize sections with colors, spacing, and font styles. Use Flexbox to create structured layouts.
+---
 
-🗓️ Week 3: Responsive Design
-Goals:
-Make the site usable on different screen sizes
-Apply media queries and responsive principles
-Key Concepts:
-Media queries (@media)
-Mobile-first design
-Responsive layout with Flexbox or Grid
-Visual accessibility
-Resources:
-FreeCodeCamp: Responsive Web Design Principles
-Visual Design & Accessibility
-Project Task:
- Make the site responsive for mobile, tablet, and desktop. Adjust layouts and font sizes based on screen width.
+## 📦 Weekly Feature Breakdown
 
-🗓️ Week 4: JavaScript Basics
-Goals:
-Add basic interactivity to the website
-Handle simple DOM events and user input
-Key Concepts:
-DOM selection (document.querySelector)
-Event listeners (addEventListener)
-Functions and conditionals
-Form validation basics
-Resources:
-FreeCodeCamp: Basic JavaScript
-Project Task:
- Add JS to:
-Toggle navigation on mobile
-Handle form submission and input validation (no backend)
+### 🗓️ Week 1: HTML & Semantic Markup
 
-🛠️ Final Enhancements (Optional)
-Add a light/dark mode toggle
-Animate elements on scroll
-Use localStorage to remember user preferences
-Add a downloadable resume (PDF) link
+**Goals:**
+- Understand basic HTML structure and semantic tags
+- Create the foundational structure of a personal portfolio
 
-🧪 Sample Use Case Flow
-User visits your portfolio site
-They can navigate between Home, About, and Contact
-On smaller screens, the menu collapses into a mobile toggle
-On the contact page, users fill a form that validates their input
-The site adjusts beautifully across devices
+**Pages to Create:**
+- Home
+- About
+- Contact
 
-📁 Suggested Folder Structure
-/portfolio-project  
-├── index.html  
-├── about.html  
-├── contact.html  
-├── /css  
-│   └── style.css  
-├── /js  
-│   └── script.js  
-├── /assets  
-│   ├── /images  
-│   └── resume.pdf  
-└── README.md  
- 
+**Key Concepts:**
+- Semantic tags: `<header>`, `<section>`, `<footer>`, etc.
+- Forms: `<form>`, `<input>`, `<textarea>`, `<button>`
 
+**Resources:**
+- [FreeCodeCamp: Basic HTML & HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
+
+**Project Task:**  
+Build the basic HTML structure for all three pages.
+
+---
+
+### 🗓️ Week 2: CSS Fundamentals
+
+**Goals:**
+- Style your portfolio using CSS
+- Understand box model, layout basics, and text styling
+
+**Key Concepts:**
+- Selectors and specificity
+- Box model (margin, padding, border)
+- Typography (fonts, sizes, line-height)
+- Flexbox layout
+
+**Resources:**
+- [FreeCodeCamp: Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+- [YouTube: CSS Crash Course](https://www.youtube.com/watch?v=wRNinF7YQqQ)
+
+**Project Task:**  
+Apply styles to HTML layout using Flexbox and customized CSS.
+
+---
+
+### 🗓️ Week 3: Responsive Design
+
+**Goals:**
+- Make the site usable on all screen sizes
+- Apply media queries and responsive principles
+
+**Key Concepts:**
+- Media queries `@media`
+- Mobile-first design
+- Responsive layout using Flexbox or Grid
+- Visual accessibility
+
+**Resources:**
+- [FreeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/)
+
+**Project Task:**  
+Make the site responsive for mobile, tablet, and desktop.
+
+---
+
+### 🗓️ Week 4: JavaScript Basics
+
+**Goals:**
+- Add interactivity using basic JavaScript
+- Handle user input and DOM events
+
+**Key Concepts:**
+- DOM selection (`document.querySelector`)
+- Event listeners (`addEventListener`)
+- Form validation basics
+- Functions and conditionals
+
+**Resources:**
+- [FreeCodeCamp: Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+**Project Task:**
+- Toggle mobile navigation
+- Validate contact form inputs (no backend)
+
+---
+
+## 🧪 Sample User Experience
+
+- Users can navigate between Home, About, and Contact pages.
+- On smaller screens, the nav menu collapses into a toggle.
+- Contact page has a form with validation.
+- The site adapts beautifully across devices.
+
+---
+
+## 📁 Suggested Folder Structure
+/portfolio-project
+├── index.html
+├── about.html
+├── contact.html
+├── /css
+│ └── style.css
+├── /js
+│ └── script.js
+├── /assets
+│ ├── /images
+│ └── resume.pdf
+└── README.md
+
+
+---
+
+## 🛠️ Optional Final Enhancements
+
+- Add dark/light mode toggle
+- Animate on scroll
+- Use `localStorage` to save user preferences
+- Add downloadable resume PDF
 

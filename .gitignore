@@ -1,0 +1,16 @@
+# macOS system file
+.DS_Store
+
+# Windows system file
+Thumbs.db
+
+# VS Code folder (editor settings)
+.vscode/
+
+# Log files
+*.log
+
+# Optional: ignore backups or temp files
+*.bak
+*.tmp
+
